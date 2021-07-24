@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Machine>
+    <Name>ABC001</Name>
+    <State>DOWN</State>
+    <EventName>New Machine</EventName>
+    <EventTime>2021-03-11 23:09:53</EventTime>
+  </Machine>
+  <Machine>
+    <Name>ABC002</Name>
+    <State>DOWN</State>
+    <EventName>New Machine</EventName>
+    <EventTime>2021-03-11 23:09:57</EventTime>
+  </Machine>
+  <Machine>
+    <Name>ABC003</Name>
+    <State>DOWN</State>
+    <EventName>New Machine</EventName>
+    <EventTime>2021-03-11 23:09:58</EventTime>
+  </Machine>
+  <Machine>
+    <Name>ABC004</Name>
+    <State>DOWN</State>
+    <EventName>New Machine</EventName>
+    <EventTime>2021-03-11 23:10:00</EventTime>
+  </Machine>
+  <Machine>
+    <Name>ABC005</Name>
+    <State>DOWN</State>
+    <EventName>New Machine</EventName>
+    <EventTime>2021-03-11 23:10:01</EventTime>
+  </Machine>
+</ArrayOfMachine>

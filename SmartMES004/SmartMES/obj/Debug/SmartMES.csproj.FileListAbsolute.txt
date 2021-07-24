@@ -1,0 +1,41 @@
+C:\Users\user\source\repos\SmartMES002\SmartMES\bin\Debug\SmartMES001.exe.config
+C:\Users\user\source\repos\SmartMES002\SmartMES\bin\Debug\SmartMES001.exe
+C:\Users\user\source\repos\SmartMES002\SmartMES\bin\Debug\SmartMES001.pdb
+C:\Users\user\source\repos\SmartMES002\SmartMES\obj\Debug\SmartMES.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SmartMES002\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SmartMES002\SmartMES\obj\Debug\SmartMES001.exe
+C:\Users\user\source\repos\SmartMES002\SmartMES\obj\Debug\SmartMES001.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\bin\Debug\SmartMES001.exe.config
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\bin\Debug\SmartMES001.exe
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\bin\Debug\SmartMES001.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\obj\Debug\SmartMES.csprojAssemblyReference.cache
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\obj\Debug\SmartMES001.exe
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES002\SmartMES\obj\Debug\SmartMES001.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\bin\Debug\SmartMES.exe.config
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\bin\Debug\SmartMES.exe
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\bin\Debug\SmartMES.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\obj\Debug\SmartMES.csprojAssemblyReference.cache
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\obj\Debug\SmartMES.exe
+C:\Users\k21cm\OneDrive\DEV\C#\SmartMES002\SmartMES003\SmartMES\obj\Debug\SmartMES.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\obj\Debug\SmartMES.csprojAssemblyReference.cache
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\obj\Debug\SmartMES.exe
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\obj\Debug\SmartMES.pdb
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\bin\Debug\SmartMES.exe.config
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\bin\Debug\SmartMES.exe
+C:\Users\k21cm\OneDrive\DEV\C#\2021년 고용노동부\SmartMES004\SmartMES\bin\Debug\SmartMES.pdb
+C:\k21cDEV\C#\SmartMES004\SmartMES\bin\Debug\SmartMES.exe.config
+C:\k21cDEV\C#\SmartMES004\SmartMES\bin\Debug\SmartMES.exe
+C:\k21cDEV\C#\SmartMES004\SmartMES\bin\Debug\SmartMES.pdb
+C:\k21cDEV\C#\SmartMES004\SmartMES\obj\Debug\SmartMES.csprojAssemblyReference.cache
+C:\k21cDEV\C#\SmartMES004\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\k21cDEV\C#\SmartMES004\SmartMES\obj\Debug\SmartMES.exe
+C:\k21cDEV\C#\SmartMES004\SmartMES\obj\Debug\SmartMES.pdb
+C:\Users\user\Desktop\SmartMES\SmartMES\bin\Debug\SmartMES.exe.config
+C:\Users\user\Desktop\SmartMES\SmartMES\bin\Debug\SmartMES.exe
+C:\Users\user\Desktop\SmartMES\SmartMES\bin\Debug\SmartMES.pdb
+C:\Users\user\Desktop\SmartMES\SmartMES\obj\Debug\SmartMES.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SmartMES\SmartMES\obj\Debug\SmartMES.exe
+C:\Users\user\Desktop\SmartMES\SmartMES\obj\Debug\SmartMES.pdb
